@@ -1,0 +1,20 @@
+{
+  "Name": "CurrencyMod",
+  "Author": "CaxaptheFox",
+  "Description": "Thats money, doing absolutly nothing, only for stories.",
+  "ModVersion": "0.2",
+  "GameVersion": "u can check it, lol",
+  "ThumbnailPath": "thumbnail.png",
+  "EntryPoint": "Caxap.Caxap",
+  "Tags": [
+    "Fun",
+    "Mod"
+  ],
+  "Scripts": [
+    "Script.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": "",
+  "CreatorUGCIdentity": ""
+}

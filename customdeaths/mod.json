@@ -1,0 +1,17 @@
+{
+  "Name": "Npc custom deaths and stuff",
+  "Author": "Heketiitus",
+  "Description": "adds some things for humans like when they die they get sliced into many pieces and such dont really know press F5 to change the human custom death mode",
+  "ModVersion": "1.3",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "joni.png",
+  "EntryPoint": "JoniMod.JoniMod",
+  "Tags": [],
+  "Scripts": [
+    "JoniMod.cs",
+    "CustomNpcDeathBehaviour.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2243598937"
+}

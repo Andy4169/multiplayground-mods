@@ -1,0 +1,40 @@
+{
+  "Name": "Puppet Master",
+  "Author": "JohnnyTaco",
+  "Description": "Control your characters. Feel their pain.",
+  "ModVersion": "1.69.2",
+  "GameVersion": "1.22.x",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "PuppetMaster.JTMain",
+  "Tags": [
+    "Utility",
+    "Controls",
+    "Controller",
+    "Fun"
+  ],
+  "Scripts": [
+    "Main.cs",
+    "PuppetMaster.cs",
+    "Puppet.cs",
+    "ChaseCamX.cs",
+    "Controls.cs",
+    "Effects.cs",
+    "Inventory.cs",
+    "MoveSet.cs",
+    "Thing.cs",
+    "Util.cs",
+    "Actions.cs",
+    "Actions/Attack.cs",
+    "Actions/Backflip.cs",
+    "Actions/Crouch.cs",
+    "Actions/Dive.cs",
+    "Actions/Jump.cs",
+    "Actions/Prone.cs",
+    "Actions/ThrowItem.cs",
+    "Garage.cs",
+    "Garage/Bike.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2668334393"
+}
